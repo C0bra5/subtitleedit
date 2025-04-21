@@ -3241,7 +3241,7 @@ $DROP=[DROPVALUE]" + Environment.NewLine + Environment.NewLine +
                     baseLinePadding += (int)Math.Round(TextDraw.MeasureTextHeight(font, "yj[K)Ź,Ç", parameter.SubtitleFontBold));
                 }
 
-                // TODO: Better baseline - test http://bobpowell.net/formattingtext.aspx
+                // TODO: Better baseline - test https://web.archive.org/web/20141230050120/http://bobpowell.net/formattingtext.aspx
                 //float baselineOffset=font.SizeInPoints/font.FontFamily.GetEmHeight(font.Style)*font.FontFamily.GetCellAscent(font.Style);
                 //float baselineOffsetPixels = g.DpiY/72f*baselineOffset;
                 //baseLinePadding = (int)Math.Round(baselineOffsetPixels);
